@@ -125,7 +125,7 @@ this.$route.params.id
 ## 使用
 #### 下载
 ```
-git clone git@github.com:woai3c/vue-admin-template.git
+git clone https://github.com/John-jack-Chen/Hello-Chen.git
 
 cd vue-admin-template
 
